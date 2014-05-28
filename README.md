@@ -9,3 +9,5 @@ We live in a world of web trends. Oftentimes, you need a full screen background 
 | _/quoteOTD.EXT_   | Gives the same quote all day from the database.    |
 | _/picture.jpg_    | Gives a random background image from the database. |
 | _/pictureOTD.jpg_ | Gives the same image all day from the database.    |
+
+All images are from [Wikimedia Commons](http://commons.wikimedia.org/) and licensed for republication and distribution.
